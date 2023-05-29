@@ -7,7 +7,7 @@
 
 - 📫 Puoi scrivermi a questo indirizzo email, ti risponderò nel più breve tempo possibile **dintronopasquale94@gmail.com**
 
-- ⚡ Fun fact **L'unica foto decente di me è quella che utilizzo come immagine di profilo, tutte le altre sono pessime. Però mi piace raccontare alla gente che ho una passione per le foto in bassissima risoluzione**
+- ⚡ Fun fact: **L'unica foto decente di me è quella che utilizzo come immagine di profilo, tutte le altre sono pessime. Però mi piace raccontare alla gente che ho una passione per le foto in bassissima risoluzione**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
