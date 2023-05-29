@@ -1,7 +1,8 @@
+![logo](https://github.com/PasqualeDintrono/PasqualeDintrono/blob/main/1.jpg)
 <h1 align="left">Ciao 👋, mi chiamo Pasquale</h1>
-<p align="left">Sono un Junior Full Stack Web Developer in continua formazione e a conoscenza dei principali linguaggi di sviluppo web e delle Metodologie di Sviluppo Agile , in particolare il metodo SCRUM.<br><br> Durante la quarantena ho scoperto una piccola passione per il design e ho impiegato parte del mio tempo ad imparare ad utilizzare Photoshop e Illustrator, ottenendo discreti risultati. Ho inoltre diverse competenze nell'ambito del Digital Marketing con un focus sulla SEO e sul Copywriting tramite Wordpress.<br><br> Sono una persona appassionata di politica nazionale e internazionale e sono appassionato di viaggi e affascinato da nuove culture.<br>Fin da piccolo sono molto sensibile alle tematiche ambientali e cerco in tutti i modi di impegnarmi ogni giorno per preservare l’ambiente.</p>
+<p align="left">Sono un <strong>Junior Full Stack Web Developer</strong> in continua formazione e a conoscenza dei principali linguaggi di sviluppo web e delle Metodologie di Sviluppo Agile, in particolare il metodo SCRUM.<br><br> Durante la quarantena ho scoperto una piccola passione per il web design e ho impiegato parte del mio tempo ad imparare ad utilizzare Photoshop e Illustrator, ottenendo discreti risultati. Ho inoltre diverse competenze nell'ambito del Digital Marketing con un focus sulla SEO e sul Copywriting tramite Wordpress.<br><br> Sono una persona appassionata di politica nazionale e internazionale e sono appassionato di viaggi e affascinato da nuove culture.<br>Fin da piccolo sono molto sensibile alle tematiche ambientali e cerco in tutti i modi di impegnarmi ogni giorno per preservare l’ambiente.</p>
     
-- 🌱 Attualmente sto imparando **Laravel ma mi sto impegnando molto anche nello sviluppo di temi WordPress custom**
+- 🌱 Attualmente sto imparando **Laravel e mi sto impegnando molto anche nello sviluppo di temi WordPress custom**
     
 - 📫 Puoi scrivermi a questo indirizzo email, ti risponderò nel più breve tempo possibile **dintronopasquale94@gmail.com**
     
