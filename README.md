@@ -1,11 +1,11 @@
-<h1 align="center">Ciao 👋, mi chiamo Pasquale</h1>
-<h3 align="center">Sono un Junior Full Stack Web Developer in continua formazione e a conoscenza dei principali linguaggi di sviluppo web e delle Metodologie di Sviluppo Agile , in particolare il metodo SCRUM. Ho inoltre diverse competenze nell'ambito del Digital Marketing con un focus sulla SEO e sul Copywriting tramite Wordpress. Sono una persona appassionata di politica nazionale e internazionale e sono appassionato di viaggi e affascinato da nuove culture, inoltre, fin da piccolo sono molto sensibile alle tematiche ambientali e cerco in tutti i modi di impegnarmi ogni giorno per preservare l’ambiente.</h3>
+<h1 align="left">Ciao 👋, mi chiamo Pasquale</h1>
+<p align="left">Sono un Junior Full Stack Web Developer in continua formazione e a conoscenza dei principali linguaggi di sviluppo web e delle Metodologie di Sviluppo Agile , in particolare il metodo SCRUM.<br> Durante la quarantena ho scoperto una piccola passione per il design e ho impiegato parte del mio tempo ad imparare ad utilizzare Photoshop e Illustrator, ottenendo discreti risultati. Ho inoltre diverse competenze nell'ambito del Digital Marketing con un focus sulla SEO e sul Copywriting tramite Wordpress.<br> Sono una persona appassionata di politica nazionale e internazionale e sono appassionato di viaggi e affascinato da nuove culture, inoltre, fin da piccolo sono molto sensibile alle tematiche ambientali e cerco in tutti i modi di impegnarmi ogni giorno per preservare l’ambiente.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasqualedintrono&label=Profile%20views&color=0e75b6&style=flat" alt="pasqualedintrono" /> </p>
 
 - 🌱 Attualmente sto imparando **Laravel and Javascript**
 
-- 📫 Puoi scrivermi a questo indirizzo email **dintronopasquale94@gmail.com**
+- 📫 Puoi scrivermi a questo indirizzo email, ti risponderò nel più breve tempo possibile **dintronopasquale94@gmail.com**
 
 - ⚡ Fun fact **L'unica foto decente di me è quella che utilizzo come immagine di profilo, tutte le altre sono pessime. Però mi piace raccontare alla gente che ho una passione per le foto in bassissima risoluzione**
 
