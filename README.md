@@ -47,4 +47,4 @@
 </p>
 
 <!-- Languages uses by me -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasqualedintrono&show_icons=true&theme=dark&locale=en&layout=compact" alt="pasqualedintrono" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pasqualedintrono&show_icons=true&theme=dark&locale=en&layout=compact" alt="pasqualedintrono" /></p>
