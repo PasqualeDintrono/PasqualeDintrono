@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **L'unica foto decente di me è quella che utilizzo come immagine di profilo, tutte le altre sono pessime. Però mi piace raccontare alla gente che ho una passione per le foto in bassissima risoluzione**
     
 <!-- Languages -->
-<h3>I linguaggi con cui ho avuto modo di approcciarmi sono:</h3>
+<h3>I linguaggi con cui ho avuto modo di lavorare:</h3>
 <p align="left">
 <!-- HTML5 -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>       </a>
