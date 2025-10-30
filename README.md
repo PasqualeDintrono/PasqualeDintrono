@@ -3,9 +3,7 @@
 <p align="left">Sono un <strong>Junior Full Stack Web Developer</strong> in continua formazione e a conoscenza dei principali linguaggi di sviluppo web e delle Metodologie di Sviluppo Agile, in particolare il metodo SCRUM.<br><br> Durante la quarantena ho scoperto una piccola passione per il web design e ho impiegato parte del mio tempo ad imparare ad utilizzare Photoshop e Illustrator, ottenendo discreti risultati. Ho inoltre diverse competenze nell'ambito del Digital Marketing con un focus sulla SEO e sul Copywriting tramite Wordpress.<br><br> Sono una persona appassionata di politica nazionale e internazionale e sono appassionato di viaggi e affascinato da nuove culture.<br>Fin da piccolo sono molto sensibile alle tematiche ambientali e cerco in tutti i modi di impegnarmi ogni giorno per preservare l’ambiente.</p>
     
 - 🌱 Attualmente sto imparando **Laravel e mi sto impegnando molto anche nello sviluppo di temi WordPress custom**
-    
-- 📫 Puoi scrivermi a questo indirizzo email, ti risponderò nel più breve tempo possibile **dintronopasquale94@gmail.com**
-    
+        
 - ⚡ Fun fact: **L'unica foto decente di me è quella che utilizzo come immagine di profilo, tutte le altre sono pessime. Però mi piace raccontare alla gente che ho una passione per le foto in bassissima risoluzione**
     
 <!-- Languages -->
